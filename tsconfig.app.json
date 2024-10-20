@@ -9,6 +9,6 @@
       "@/*": ["./src/*"]
     }
   },
-  "include": ["src/**/*.ts", "src/**/*.tsx"], // Include all TypeScript files
+  "include": ["src/**/*.ts", "src/**/*.tsx", "src/components/NewDataTable.jsx"], // Include all TypeScript files
   "exclude": ["src/**/*.spec.ts", "node_modules"] // Exclude test files and node_modules
 }
